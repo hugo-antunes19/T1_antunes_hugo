@@ -1,0 +1,17 @@
+[Rank 2] Recebido via 3 Bcasts:
+  name  = "Hugo Leandro Antunes"
+  grade = 9.5
+  id    = 123143543
+[Rank 3] Recebido via 3 Bcasts:
+  name  = "Hugo Leandro Antunes"
+  grade = 9.5
+  id    = 123143543
+[Rank 0] Enviando Student via 3 MPI_Bcast separados:
+  name  = "Hugo Leandro Antunes"
+  grade = 9.5
+  id    = 123143543
+
+[Rank 1] Recebido via 3 Bcasts:
+  name  = "Hugo Leandro Antunes"
+  grade = 9.5
+  id    = 123143543

@@ -1,0 +1,200 @@
+>> Execução 1:
+Hello from rank 0/8 -- PID = 388, CPU = 2
+Hello from rank 1/8 -- PID = 389, CPU = 13
+Hello from rank 2/8 -- PID = 390, CPU = 10
+Hello from rank 3/8 -- PID = 394, CPU = 12
+Hello from rank 4/8 -- PID = 396, CPU = 4
+Hello from rank 5/8 -- PID = 399, CPU = 6
+Hello from rank 6/8 -- PID = 403, CPU = 10
+Hello from rank 7/8 -- PID = 405, CPU = 15
+
+>> Execução 2:
+Hello from rank 0/8 -- PID = 415, CPU = 1
+Hello from rank 1/8 -- PID = 416, CPU = 2
+Hello from rank 2/8 -- PID = 417, CPU = 14
+Hello from rank 3/8 -- PID = 420, CPU = 0
+Hello from rank 4/8 -- PID = 424, CPU = 12
+Hello from rank 5/8 -- PID = 426, CPU = 15
+Hello from rank 6/8 -- PID = 429, CPU = 6
+Hello from rank 7/8 -- PID = 432, CPU = 10
+
+>> Execução 3:
+Hello from rank 0/8 -- PID = 442, CPU = 7
+Hello from rank 1/8 -- PID = 443, CPU = 8
+Hello from rank 2/8 -- PID = 444, CPU = 2
+Hello from rank 3/8 -- PID = 448, CPU = 4
+Hello from rank 4/8 -- PID = 451, CPU = 9
+Hello from rank 5/8 -- PID = 454, CPU = 14
+Hello from rank 6/8 -- PID = 457, CPU = 15
+Hello from rank 7/8 -- PID = 460, CPU = 3
+
+>> Execução 4:
+Hello from rank 0/8 -- PID = 469, CPU = 8
+Hello from rank 1/8 -- PID = 470, CPU = 3
+Hello from rank 2/8 -- PID = 471, CPU = 1
+Hello from rank 3/8 -- PID = 474, CPU = 12
+Hello from rank 4/8 -- PID = 477, CPU = 12
+Hello from rank 5/8 -- PID = 480, CPU = 15
+Hello from rank 6/8 -- PID = 484, CPU = 2
+Hello from rank 7/8 -- PID = 487, CPU = 14
+
+>> Execução 5:
+Hello from rank 0/8 -- PID = 496, CPU = 10
+Hello from rank 1/8 -- PID = 497, CPU = 15
+Hello from rank 2/8 -- PID = 498, CPU = 9
+Hello from rank 3/8 -- PID = 501, CPU = 0
+Hello from rank 4/8 -- PID = 505, CPU = 1
+Hello from rank 5/8 -- PID = 507, CPU = 7
+Hello from rank 6/8 -- PID = 509, CPU = 2
+Hello from rank 7/8 -- PID = 513, CPU = 14
+
+>> Execução 6:
+Hello from rank 0/8 -- PID = 523, CPU = 11
+Hello from rank 1/8 -- PID = 524, CPU = 2
+Hello from rank 2/8 -- PID = 525, CPU = 15
+Hello from rank 3/8 -- PID = 528, CPU = 8
+Hello from rank 4/8 -- PID = 531, CPU = 1
+Hello from rank 5/8 -- PID = 534, CPU = 6
+Hello from rank 6/8 -- PID = 538, CPU = 0
+Hello from rank 7/8 -- PID = 541, CPU = 11
+
+>> Execução 7:
+Hello from rank 0/8 -- PID = 550, CPU = 12
+Hello from rank 1/8 -- PID = 551, CPU = 0
+Hello from rank 2/8 -- PID = 553, CPU = 3
+Hello from rank 3/8 -- PID = 555, CPU = 1
+Hello from rank 4/8 -- PID = 559, CPU = 9
+Hello from rank 5/8 -- PID = 561, CPU = 14
+Hello from rank 6/8 -- PID = 564, CPU = 5
+Hello from rank 7/8 -- PID = 567, CPU = 8
+
+>> Execução 8:
+Hello from rank 0/8 -- PID = 577, CPU = 2
+Hello from rank 1/8 -- PID = 578, CPU = 8
+Hello from rank 2/8 -- PID = 579, CPU = 6
+Hello from rank 3/8 -- PID = 582, CPU = 10
+Hello from rank 4/8 -- PID = 586, CPU = 4
+Hello from rank 5/8 -- PID = 588, CPU = 13
+Hello from rank 6/8 -- PID = 591, CPU = 7
+Hello from rank 7/8 -- PID = 595, CPU = 0
+
+>> Execução 9:
+Hello from rank 0/8 -- PID = 604, CPU = 10
+Hello from rank 1/8 -- PID = 605, CPU = 0
+Hello from rank 2/8 -- PID = 606, CPU = 8
+Hello from rank 3/8 -- PID = 609, CPU = 15
+Hello from rank 4/8 -- PID = 612, CPU = 5
+Hello from rank 5/8 -- PID = 616, CPU = 1
+Hello from rank 6/8 -- PID = 618, CPU = 6
+Hello from rank 7/8 -- PID = 620, CPU = 14
+
+>> Execução 10:
+Hello from rank 0/8 -- PID = 631, CPU = 8
+Hello from rank 1/8 -- PID = 632, CPU = 2
+Hello from rank 2/8 -- PID = 633, CPU = 5
+Hello from rank 3/8 -- PID = 637, CPU = 0
+Hello from rank 4/8 -- PID = 640, CPU = 10
+Hello from rank 5/8 -- PID = 643, CPU = 13
+Hello from rank 6/8 -- PID = 646, CPU = 14
+Hello from rank 7/8 -- PID = 649, CPU = 12
+
+>> Execução 11:
+Hello from rank 0/8 -- PID = 658, CPU = 12
+Hello from rank 1/8 -- PID = 659, CPU = 2
+Hello from rank 2/8 -- PID = 660, CPU = 1
+Hello from rank 3/8 -- PID = 662, CPU = 8
+Hello from rank 4/8 -- PID = 666, CPU = 6
+Hello from rank 5/8 -- PID = 669, CPU = 0
+Hello from rank 6/8 -- PID = 673, CPU = 14
+Hello from rank 7/8 -- PID = 676, CPU = 3
+
+>> Execução 12:
+Hello from rank 0/8 -- PID = 685, CPU = 15
+Hello from rank 1/8 -- PID = 686, CPU = 4
+Hello from rank 2/8 -- PID = 687, CPU = 0
+Hello from rank 3/8 -- PID = 689, CPU = 8
+Hello from rank 4/8 -- PID = 693, CPU = 2
+Hello from rank 5/8 -- PID = 696, CPU = 6
+Hello from rank 6/8 -- PID = 698, CPU = 1
+Hello from rank 7/8 -- PID = 701, CPU = 7
+
+>> Execução 13:
+Hello from rank 0/8 -- PID = 712, CPU = 15
+Hello from rank 1/8 -- PID = 713, CPU = 11
+Hello from rank 2/8 -- PID = 714, CPU = 2
+Hello from rank 3/8 -- PID = 717, CPU = 7
+Hello from rank 4/8 -- PID = 720, CPU = 1
+Hello from rank 5/8 -- PID = 723, CPU = 4
+Hello from rank 6/8 -- PID = 726, CPU = 10
+Hello from rank 7/8 -- PID = 730, CPU = 0
+
+>> Execução 14:
+Hello from rank 0/8 -- PID = 739, CPU = 10
+Hello from rank 1/8 -- PID = 740, CPU = 8
+Hello from rank 2/8 -- PID = 741, CPU = 15
+Hello from rank 3/8 -- PID = 745, CPU = 1
+Hello from rank 4/8 -- PID = 748, CPU = 14
+Hello from rank 5/8 -- PID = 751, CPU = 2
+Hello from rank 6/8 -- PID = 753, CPU = 13
+Hello from rank 7/8 -- PID = 755, CPU = 6
+
+>> Execução 15:
+Hello from rank 0/8 -- PID = 766, CPU = 14
+Hello from rank 1/8 -- PID = 767, CPU = 4
+Hello from rank 2/8 -- PID = 768, CPU = 1
+Hello from rank 3/8 -- PID = 771, CPU = 9
+Hello from rank 4/8 -- PID = 774, CPU = 8
+Hello from rank 5/8 -- PID = 777, CPU = 6
+Hello from rank 6/8 -- PID = 780, CPU = 12
+Hello from rank 7/8 -- PID = 783, CPU = 10
+
+>> Execução 16:
+Hello from rank 0/8 -- PID = 793, CPU = 10
+Hello from rank 1/8 -- PID = 794, CPU = 9
+Hello from rank 2/8 -- PID = 795, CPU = 15
+Hello from rank 3/8 -- PID = 798, CPU = 0
+Hello from rank 4/8 -- PID = 803, CPU = 6
+Hello from rank 5/8 -- PID = 805, CPU = 12
+Hello from rank 6/8 -- PID = 807, CPU = 0
+Hello from rank 7/8 -- PID = 810, CPU = 4
+
+>> Execução 17:
+Hello from rank 0/8 -- PID = 822, CPU = 2
+Hello from rank 1/8 -- PID = 824, CPU = 8
+Hello from rank 2/8 -- PID = 825, CPU = 13
+Hello from rank 3/8 -- PID = 829, CPU = 0
+Hello from rank 4/8 -- PID = 831, CPU = 4
+Hello from rank 5/8 -- PID = 835, CPU = 6
+Hello from rank 6/8 -- PID = 837, CPU = 1
+Hello from rank 7/8 -- PID = 840, CPU = 15
+
+>> Execução 18:
+Hello from rank 0/8 -- PID = 850, CPU = 1
+Hello from rank 1/8 -- PID = 851, CPU = 12
+Hello from rank 2/8 -- PID = 852, CPU = 2
+Hello from rank 3/8 -- PID = 855, CPU = 9
+Hello from rank 4/8 -- PID = 858, CPU = 4
+Hello from rank 5/8 -- PID = 862, CPU = 11
+Hello from rank 6/8 -- PID = 864, CPU = 13
+Hello from rank 7/8 -- PID = 867, CPU = 0
+
+>> Execução 19:
+Hello from rank 0/8 -- PID = 877, CPU = 10
+Hello from rank 1/8 -- PID = 878, CPU = 15
+Hello from rank 2/8 -- PID = 879, CPU = 5
+Hello from rank 3/8 -- PID = 883, CPU = 7
+Hello from rank 4/8 -- PID = 886, CPU = 12
+Hello from rank 5/8 -- PID = 889, CPU = 9
+Hello from rank 6/8 -- PID = 891, CPU = 6
+Hello from rank 7/8 -- PID = 894, CPU = 3
+
+>> Execução 20:
+Hello from rank 0/8 -- PID = 904, CPU = 8
+Hello from rank 1/8 -- PID = 905, CPU = 4
+Hello from rank 2/8 -- PID = 906, CPU = 11
+Hello from rank 3/8 -- PID = 910, CPU = 3
+Hello from rank 4/8 -- PID = 912, CPU = 0
+Hello from rank 5/8 -- PID = 915, CPU = 14
+Hello from rank 6/8 -- PID = 919, CPU = 6
+Hello from rank 7/8 -- PID = 921, CPU = 7
+

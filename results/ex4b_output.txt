@@ -1,0 +1,4 @@
+N = 1000000, p = 4
+MPI_Reduce  MAX = 499.999,  MIN = -499.998
+Serial      MAX = 499.999,  MIN = -499.998
+Verificação: MAX OK, MIN OK

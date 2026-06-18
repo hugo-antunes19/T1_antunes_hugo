@@ -1,0 +1,18 @@
+z = x + y (Gather):
+  z[ 0] = 0  (expected 0)
+  z[ 1] = 3  (expected 3)
+  z[ 2] = 6  (expected 6)
+  z[ 3] = 9  (expected 9)
+  z[ 4] = 12  (expected 12)
+  z[ 5] = 15  (expected 15)
+  z[ 6] = 18  (expected 18)
+  z[ 7] = 21  (expected 21)
+  z[ 8] = 24  (expected 24)
+  z[ 9] = 27  (expected 27)
+  z[10] = 30  (expected 30)
+  z[11] = 33  (expected 33)
+  z[12] = 36  (expected 36)
+  z[13] = 39  (expected 39)
+  z[14] = 42  (expected 42)
+  z[15] = 45  (expected 45)
+Verificação: OK

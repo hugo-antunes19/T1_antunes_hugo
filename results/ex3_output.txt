@@ -1,0 +1,4 @@
+N = 10000000, p = 4
+Soma serial   = 4.999361300896658e+06
+Soma paralela = 4.999361300896985e+06
+Erro relativo = 6.5573e-14
